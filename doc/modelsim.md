@@ -85,6 +85,9 @@ sudo dnf install ncurses-compat-libs.i686
 ## Step-3
 Install 32-bit version of `freetype-2.4.12`
 
+**NOTE**: As of **ModelSim 18.0** it appears that it is not necessary to install `freetype-2.4.12` anymore!
+It seems to be working fine with the builtin `freetype-2.8.10` in **Fedora-28**.
+
 ```bash
 /opt/altera/17.1/modelsim_ase/bin/vsim 
 
