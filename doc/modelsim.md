@@ -48,6 +48,7 @@ Install missing 32-bit libraries.
 ```
 
 ```bash
+# Install 32-bit core X11 protocol client library.
 sudo dnf install libX11.i686
 ```
 
@@ -58,6 +59,7 @@ sudo dnf install libX11.i686
 ```
 
 ```bash
+# Install 32-bit X.Org X11 libXext runtime library.
 sudo dnf install libXext.i686
 ```
 
@@ -68,6 +70,7 @@ sudo dnf install libXext.i686
 ```
 
 ```bash
+# Install 32-bit X.Org X11 libXft runtime library.
 sudo dnf install libXft.i686
 ```
 
@@ -78,6 +81,7 @@ sudo dnf install libXft.i686
 ```
 
 ```bash
+# Install 32-bit ABI version 5 of the ncurses libraries for compatibility.
 sudo dnf install ncurses-compat-libs.i686
 ```
 
