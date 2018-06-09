@@ -1,6 +1,5 @@
 
-# Altera / Intel FPGA and Tool Guides
+# Altera / Intel Guides
 
-# Tools
-
-* [ModelSim](doc/modelsim.md)
+## Tools
+* [ModelSim Post Installation Setup](doc/modelsim_post_install.md)

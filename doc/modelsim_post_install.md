@@ -1,7 +1,5 @@
 
-# ModelSim
-
-## Post Installation Setup
+# ModelSim Post Installation Setup
 
 This guide here has been used on a **Fedora-28 64-bit** installation and tested with the following **ModelSim** versions:
 * 16.0
