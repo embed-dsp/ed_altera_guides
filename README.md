@@ -1,5 +1,5 @@
 
-# Altera/Intel FPGA and Tool Guides
+# Altera / Intel FPGA and Tool Guides
 
 # Tools
 
